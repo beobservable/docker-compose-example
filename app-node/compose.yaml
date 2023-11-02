@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    environment:
+      PORT: 8090
+    ports:
+      - 3000:8090

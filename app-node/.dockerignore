@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+!package.json
+!package-lock.json
+!src
